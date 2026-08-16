@@ -93,8 +93,7 @@ for (int c = 0; c < m[0].length; c++) {
 ## Compile, Run, and Test
 
 ```bash
-bash tools/run_lab.sh lab10          # 19 official checks
-python3 tools/comment_check.py labs/lab10
+
 ```
 
 ---
